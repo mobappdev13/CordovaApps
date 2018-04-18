@@ -35,17 +35,7 @@ var app = {
         // }
         //);
     },
-    calcula: function () {
-        console.log("sono in calcula:");
-        
-        var xx = document.getElementById("x");
-        var vfp = new Date();
-        var day = vfp.getDay();
-        //xx = 0
-        vsn = Math.floor(Math.sqrt(5969691 + xx) * day);
-        vns = Math.floor(Math.sqrt(2506436 + xx) * day);
-        document.getElementById("resultado").innerHTML = vns.toString();
-
+    
 
 
 }
