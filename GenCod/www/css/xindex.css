@@ -1,0 +1,18 @@
+﻿body {
+    padding-top:45px;
+}
+ fieldset{
+    float:center;
+     width:300px; 
+     padding-top:15px;
+     text-align:left;
+     margin-right:15px;
+     font-size:100%;
+      border-color: #ff6a00;
+  border-style: solid;
+  background-color:#00ff90;
+    }
+
+input, select, textarea {
+background-color: #ff6a00;
+}
